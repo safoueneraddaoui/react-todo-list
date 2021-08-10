@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Hello 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first React project 
 
-## Available Scripts
+## Run the project
 
-In the project directory, you can run:
+if you wanna run the project just you need to clone it and run 
+```bash
+
+# install dependencies
+npm i
+# install dependencies
+npm start
+
+```
 
 ### `npm start`
 
